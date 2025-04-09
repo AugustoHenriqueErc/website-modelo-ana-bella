@@ -17,3 +17,26 @@ a {
     font-weight: bold;
     padding: 5px ;
 }
+#content {
+    font-weight: bold;
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+#rodape
+{
+    color:#4b566a;
+    padding: 10px;
+    position:static;
+    text-align: center;
+}
+h1 {
+    font-size: 1.2em;
+    color:#4b566a;
+}
+
+#img-campanha { 
+    
+    padding: 10px;
+    background-color: hsl(60, 14%, 74%) ;
+}
